@@ -1,0 +1,37 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+    background-color: rgb(240, 239, 239);
+    width: 50%;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    
+.head{
+    display: flex;
+    
+}
+.pic > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    
+}
+.pic {
+    margin-right: 50px;
+}
+table , tr,th,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    
+}
